@@ -28,7 +28,8 @@
   },
   "scripts": {
     "test": "jest",
-    "generate": "plop"
+    "generate": "plop",
+    "watch": "jest --watch"
   },
   "eslintConfig": {
     "root": true
